@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @Saurabh Gargote 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi folks, I’m Saurabh Gargote 
+
+### Skills - 
+
+Languages: Python, Javascript, C & C++
+
+Platforms: Google Cloud Platform 
+
+Database: MySQL
+
+
